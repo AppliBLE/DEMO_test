@@ -1,8 +1,13 @@
 {
   "files": {
-    "main.css": "/DEMO_test/static/css/main.2efd0415.css",
-    "main.js": "/DEMO_test/static/js/main.ceea60a0.js",
+    "main.css": "/DEMO_test/static/css/main.b9c58564.css",
+    "main.js": "/DEMO_test/static/js/main.91d0a5e3.js",
     "static/media/WBA_transparent.png": "/DEMO_test/static/media/WBA_transparent.7e527fcd9822cfa4e33a.png",
+    "static/media/WB_transparent.png": "/DEMO_test/static/media/WB_transparent.87ffb26bcfe5586514ea.png",
+    "static/media/DK_low.png": "/DEMO_test/static/media/DK_low.88506f43afcbf6de590e.png",
+    "static/media/LPS_low.png": "/DEMO_test/static/media/LPS_low.bf3b67e8f09e24b36502.png",
+    "static/media/CEB_low.png": "/DEMO_test/static/media/CEB_low.ba847d2b9afaddc302c8.png",
+    "static/media/LP.jpg": "/DEMO_test/static/media/LP.c78bc1142dd02197b8e2.jpg",
     "static/media/st-logo.svg": "/DEMO_test/static/media/st-logo.01d65641d9828fd6847ef785b4019063.svg",
     "index.html": "/DEMO_test/index.html",
     "static/media/lightOnBlue.svg": "/DEMO_test/static/media/lightOnBlue.e4933a8ad55d6eebfa0310c67cde2082.svg",
@@ -11,11 +16,11 @@
     "static/media/iconInfoPink.svg": "/DEMO_test/static/media/iconInfoPink.49d9aa3d6fa6dd9e80201e48b7b701bd.svg",
     "static/media/lightOffBlue.svg": "/DEMO_test/static/media/lightOffBlue.7aca40f9fa79ed781538dbc1f0d55df3.svg",
     "static/media/lightOffPink.svg": "/DEMO_test/static/media/lightOffPink.b14fc70dbf17669d9e7dab5664c4c580.svg",
-    "main.2efd0415.css.map": "/DEMO_test/static/css/main.2efd0415.css.map",
-    "main.ceea60a0.js.map": "/DEMO_test/static/js/main.ceea60a0.js.map"
+    "main.b9c58564.css.map": "/DEMO_test/static/css/main.b9c58564.css.map",
+    "main.91d0a5e3.js.map": "/DEMO_test/static/js/main.91d0a5e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.2efd0415.css",
-    "static/js/main.ceea60a0.js"
+    "static/css/main.b9c58564.css",
+    "static/js/main.91d0a5e3.js"
   ]
 }
