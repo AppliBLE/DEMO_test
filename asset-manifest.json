@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/DEMO_test/static/css/main.e0d6cab0.css",
-    "main.js": "/DEMO_test/static/js/main.de10920a.js",
+    "main.css": "/DEMO_test/static/css/main.c94600ab.css",
+    "main.js": "/DEMO_test/static/js/main.7839343a.js",
     "static/media/WBA_transparent.png": "/DEMO_test/static/media/WBA_transparent.7e527fcd9822cfa4e33a.png",
     "static/media/WB_transparent.png": "/DEMO_test/static/media/WB_transparent.87ffb26bcfe5586514ea.png",
     "static/media/DK_low.png": "/DEMO_test/static/media/DK_low.88506f43afcbf6de590e.png",
     "static/media/LPS_low.png": "/DEMO_test/static/media/LPS_low.bf3b67e8f09e24b36502.png",
     "static/media/CEB_low.png": "/DEMO_test/static/media/CEB_low.ba847d2b9afaddc302c8.png",
+    "static/media/lightbulb.png": "/DEMO_test/static/media/lightbulb.56b1ad57b3e483924fa4.png",
+    "static/media/door_lock.png": "/DEMO_test/static/media/door_lock.61a72c69b4acc1858525.png",
     "static/media/LP.jpg": "/DEMO_test/static/media/LP.c78bc1142dd02197b8e2.jpg",
     "static/media/st-logo.svg": "/DEMO_test/static/media/st-logo.01d65641d9828fd6847ef785b4019063.svg",
     "index.html": "/DEMO_test/index.html",
@@ -14,13 +16,14 @@
     "static/media/lightOnPink.svg": "/DEMO_test/static/media/lightOnPink.7f971faac8402be7ecbb1330e81342fb.svg",
     "static/media/iconInfo.svg": "/DEMO_test/static/media/iconInfo.66f7ed72db618df4ba47d59edb7c2ece.svg",
     "static/media/iconInfoPink.svg": "/DEMO_test/static/media/iconInfoPink.49d9aa3d6fa6dd9e80201e48b7b701bd.svg",
+    "static/media/house.svg": "/DEMO_test/static/media/house.b6e57e50f5455e915347f63f8d4783ea.svg",
     "static/media/lightOffBlue.svg": "/DEMO_test/static/media/lightOffBlue.7aca40f9fa79ed781538dbc1f0d55df3.svg",
     "static/media/lightOffPink.svg": "/DEMO_test/static/media/lightOffPink.b14fc70dbf17669d9e7dab5664c4c580.svg",
-    "main.e0d6cab0.css.map": "/DEMO_test/static/css/main.e0d6cab0.css.map",
-    "main.de10920a.js.map": "/DEMO_test/static/js/main.de10920a.js.map"
+    "main.c94600ab.css.map": "/DEMO_test/static/css/main.c94600ab.css.map",
+    "main.7839343a.js.map": "/DEMO_test/static/js/main.7839343a.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0d6cab0.css",
-    "static/js/main.de10920a.js"
+    "static/css/main.c94600ab.css",
+    "static/js/main.7839343a.js"
   ]
 }
