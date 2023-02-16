@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DEMO_test/static/css/main.c1f1030d.css",
-    "main.js": "/DEMO_test/static/js/main.abe0b558.js",
+    "main.css": "/DEMO_test/static/css/main.2decf038.css",
+    "main.js": "/DEMO_test/static/js/main.1fb4ffef.js",
     "static/media/WBA_transparent.png": "/DEMO_test/static/media/WBA_transparent.7e527fcd9822cfa4e33a.png",
     "static/media/WB_transparent.png": "/DEMO_test/static/media/WB_transparent.87ffb26bcfe5586514ea.png",
     "static/media/DK_low.png": "/DEMO_test/static/media/DK_low.88506f43afcbf6de590e.png",
@@ -20,11 +20,11 @@
     "static/media/house.svg": "/DEMO_test/static/media/house.b6e57e50f5455e915347f63f8d4783ea.svg",
     "static/media/lightOffBlue.svg": "/DEMO_test/static/media/lightOffBlue.7aca40f9fa79ed781538dbc1f0d55df3.svg",
     "static/media/lightOffPink.svg": "/DEMO_test/static/media/lightOffPink.b14fc70dbf17669d9e7dab5664c4c580.svg",
-    "main.c1f1030d.css.map": "/DEMO_test/static/css/main.c1f1030d.css.map",
-    "main.abe0b558.js.map": "/DEMO_test/static/js/main.abe0b558.js.map"
+    "main.2decf038.css.map": "/DEMO_test/static/css/main.2decf038.css.map",
+    "main.1fb4ffef.js.map": "/DEMO_test/static/js/main.1fb4ffef.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1f1030d.css",
-    "static/js/main.abe0b558.js"
+    "static/css/main.2decf038.css",
+    "static/js/main.1fb4ffef.js"
   ]
 }
