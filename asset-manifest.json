@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DEMO_test/static/css/main.2decf038.css",
+    "main.css": "/DEMO_test/static/css/main.ba33803e.css",
     "main.js": "/DEMO_test/static/js/main.1fb4ffef.js",
     "static/media/WBA_transparent.png": "/DEMO_test/static/media/WBA_transparent.7e527fcd9822cfa4e33a.png",
     "static/media/WB_transparent.png": "/DEMO_test/static/media/WB_transparent.87ffb26bcfe5586514ea.png",
@@ -20,11 +20,11 @@
     "static/media/house.svg": "/DEMO_test/static/media/house.b6e57e50f5455e915347f63f8d4783ea.svg",
     "static/media/lightOffBlue.svg": "/DEMO_test/static/media/lightOffBlue.7aca40f9fa79ed781538dbc1f0d55df3.svg",
     "static/media/lightOffPink.svg": "/DEMO_test/static/media/lightOffPink.b14fc70dbf17669d9e7dab5664c4c580.svg",
-    "main.2decf038.css.map": "/DEMO_test/static/css/main.2decf038.css.map",
+    "main.ba33803e.css.map": "/DEMO_test/static/css/main.ba33803e.css.map",
     "main.1fb4ffef.js.map": "/DEMO_test/static/js/main.1fb4ffef.js.map"
   },
   "entrypoints": [
-    "static/css/main.2decf038.css",
+    "static/css/main.ba33803e.css",
     "static/js/main.1fb4ffef.js"
   ]
 }
